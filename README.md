@@ -6,3 +6,4 @@
 [![FORK](https://img.shields.io/github/forks/procoder0/yuichi?style=flat-square&color=red)](https://github.com/procoder0/yuichi/forks)
 [![Stars](https://img.shields.io/github/stars/procoder0/yuichi?style=flat-square&color=Brown)](https://github.com/procoder0/yuichi/stargazers)
 [![Size](https://img.shields.io/github/repo-size/procoder0/yuichi?style=flat-square&color=pink)](https://github.com/procoder0/yuichi/)
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
