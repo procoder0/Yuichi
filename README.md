@@ -1,6 +1,6 @@
 <html>
 <h1>YUICHI=USERBOT</h>
-src="./resources/extras/logo_readme.jpg" alt="YUICHI Logo">
+<img src = "https://telegra.ph/file/7a3b1d0656afaa5c05a30.jpg">
 
 <pre> This userbot is a very powerful and the super userbot.</pre>
 
